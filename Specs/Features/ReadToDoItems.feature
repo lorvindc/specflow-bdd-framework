@@ -11,7 +11,7 @@ Scenario: Get To Do Items -> Lists all To Do Items
 	| 1  | Grocery  | true      |
 	| 2  | Exercise | false     |
 	When the list of To Do Items are requested
-	Then the list of To Do Items
+	Then the list of To Do Items are displayed
 	| Id | Name     | Completed |
 	| 1  | Grocery  | true      |
 	| 2  | Exercise | false     |

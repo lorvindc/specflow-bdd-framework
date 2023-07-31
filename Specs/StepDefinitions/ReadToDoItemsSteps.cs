@@ -42,7 +42,7 @@ namespace Specs.StepDefinitions
             clientDriver.RequestToDoItemList();
         }
 
-        [Then(@"the list of To Do Items")]
+        [Then(@"the list of To Do Items are displayed")]
         public void ThenTheListOfToDoItems(Table table)
         {
             var expectedResult = table.Rows
