@@ -13,6 +13,7 @@
   </p>
 </p>
 
+[![Workflows][workflow-shield]][workflow-url]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -48,3 +49,5 @@ Project Link: [https://github.com/lorvindc/specflow-bdd-framework](https://githu
 [issues-url]: https://github.com/lorvindc/specflow-bdd-framework/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lorvin-de-la-cruz-899080a6/
+[workflow-shield]: https://github.com/lorvindc/specflow-bdd-framework/actions/workflows/dotnet.yml/badge.svg
+[workflow-url]: https://github.com/lorvindc/specflow-bdd-framework/actions/workflows/dotnet.yml
